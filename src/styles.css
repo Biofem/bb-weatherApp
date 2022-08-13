@@ -1,0 +1,65 @@
+body {
+  font-family: sans-serif;
+  padding: 0 20px;
+  background-image: url(https://images.unsplash.com/photo-1656870680056-92dbb2de403e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80);
+}
+h1 {
+  color: blue;
+  padding: 10px 10px;
+}
+.label {
+  padding: 2em;
+  border-radius: 30px;
+  width: 100%;
+  max-width: 850px;
+  margin: 1em;
+}
+h2,
+.ul {
+  text-align: end;
+  font-weight: 100;
+  margin: 0;
+  font-size: 30px;
+  line-height: 40px;
+  position: end;
+  padding-right: 30px justify;
+}
+h3 {
+  font-size: 20px;
+  text-align: left;
+}
+.weather-conditions {
+  text-align: end;
+  margin: 0;
+  font-size: 18px;
+  line-height: 18px;
+  padding: auto;
+}
+button {
+  display: 0 auto;
+  background: red;
+  color: white;
+  margin: 3px;
+  padding: 5px 4px;
+  font-size: 12px;
+  text-align: right;
+  position: bottom end;
+}
+.card {
+  background-color: rgb(202, 151, 84);
+  padding: 2em;
+  border-radius: 30px;
+  width: 100%;
+  max-width: 850px;
+  margin: 1em;
+}
+.Days.Temp.Icon {
+  padding: 10px;
+  font-size: 18px;
+  text-align: justify;
+}
+.footer {
+  text-align: center;
+  margin: 0 0 10px;
+  padding: 0;
+}
